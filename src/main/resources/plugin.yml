@@ -1,0 +1,7 @@
+name: CookteTags
+version: '0.0.0'
+main: com.soyaldo.cookteTags.CookteTags
+api-version: '1.19'
+authors: [ SoyAldo ]
+description: Sistema de combate en el vestibulo.
+website: https://soyaldo.com
